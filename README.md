@@ -29,5 +29,5 @@ Aspiring Data Scientist passionate about Machine Learning, Data Analysis, and Bu
 - Interactive dashboards with Power BI and Tableau
 
 ### Connect With Me
-- LinkedIn: Add your LinkedIn URL
-- Email: your email
+- LinkedIn: https://www.linkedin.com/in/mohammed-shuhaib45/
+- Email: shuhaibmohammed82@gmail.com
