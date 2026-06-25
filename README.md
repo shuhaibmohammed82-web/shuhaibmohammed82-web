@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mohd Suhaib 👋
 
-<!--
-**shuhaibmohammed82-web/shuhaibmohammed82-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Data Scientist passionate about Machine Learning, Data Analysis, and Business Intelligence.
 
-Here are some ideas to get you started:
+### Skills
+- Python
+- SQL
+- Machine Learning
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+- Scikit-Learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+
+#### 🌾 Smart Agriculture Recommendation System
+- Crop recommendation using Machine Learning
+- Weather and soil-based predictions
+- SQL database integration
+
+#### ❤️ Heart Disease Prediction
+- Predictive analytics using ML algorithms
+- Data preprocessing and model evaluation
+
+#### 🌧️ Rainfall Forecasting System
+- XGBoost and Random Forest models
+- Interactive dashboards with Power BI and Tableau
+
+### Connect With Me
+- LinkedIn: Add your LinkedIn URL
+- Email: your email
